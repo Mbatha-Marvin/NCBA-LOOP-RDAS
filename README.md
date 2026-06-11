@@ -1,7 +1,5 @@
 # Reference Data Aggregation Service (RDAS)
 
-Single source of truth for country, currency, language, and geographical reference data.
-
 ## Overview
 
 RDAS provides a REST/JSON API that wraps the CountryInfo SOAP service internally, solving the operational challenges of multiple channels consuming SOAP directly.
